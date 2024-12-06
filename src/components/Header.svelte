@@ -1,7 +1,7 @@
 <script>
     export let projectTitle = "BIOM5403 - Visualization Project";
     export let studentInfo = "Darwin Jull, Student No: 101145679";
-    export let githubLink = "https://github.com/your-repo";
+    export let githubLink = "https://github.com/darwinkjull/vis-5403";
   </script>
   
   <header>
